@@ -1,0 +1,7 @@
+# Arduino nRF52XX (Debugger)
+arduino_nrf52xx_dbg.name=Arduino nRF52xx (Debugger)
+arduino_nrf52xx_dbg.vid.0=0x0000
+arduino_nrf52xx_dbg.pid.0=0x0000
+
+arduino_nrf52xx_dbg.upload.tool=openocd
+arduino_nrf52xx_dbg.upload.protocol=cmsis-dap
