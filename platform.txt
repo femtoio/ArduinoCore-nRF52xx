@@ -1,0 +1,42 @@
+# 
+# Arduino nRF52 Core and platform.
+# 
+
+name=Arduino nRF52xx (32-bit ARM Cortex M4L) Boards
+version=0.0.1
+
+# Compile Variables
+# -----------------
+
+
+# USB Flags
+# -----------------
+
+
+# Compile Patterns
+# ----------------
+
+## Compile c files
+
+## Compile c++ files
+
+## Compile S files (assembly)
+
+## Create archives
+
+## Combine gc-sections, archives, and objects
+
+## Create output (bin file)
+
+## Save hex
+
+## Compute size
+
+
+
+# Uploader tools
+# --------------
+
+## @todo nRF-tools for Windows/Linux, Jlink commander for OSX
+## See https://devzone.nordicsemi.com/tutorials/7/
+##
