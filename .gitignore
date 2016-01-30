@@ -30,3 +30,10 @@
 
 # Debug files
 *.dSYM/
+
+
+# Nordic SDK extract
+Nordic_files/components
+Nordic_files/documentation
+Nordic_files/examples
+Nordic_files/SVD
