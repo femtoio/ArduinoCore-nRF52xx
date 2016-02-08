@@ -39,4 +39,6 @@ Nordic_files/examples
 Nordic_files/SVD
 
 #ARM CMSIS Specification extract
-ARM/CMSIS-SP-00300-r4p5-00rel0
+ARM/ARM.CMSIS.pdsc
+ARM/CMSIS
+ARM/Device
